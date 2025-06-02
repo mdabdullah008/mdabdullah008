@@ -52,6 +52,6 @@ I'm a college student making and hosting applications as a hobby.
 <br>
 </p>
 ------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
+Credits: Birunthaban Sarventhiran [https://github.com/Birunthaban]
 
 Last Edited on: 02/06/2025
