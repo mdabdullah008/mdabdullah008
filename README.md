@@ -46,7 +46,7 @@ I'm a college student making and hosting applications as a hobby.
    <i>"The best way to predict the future is to invent it." — Alan Kay</i>
    <br>
 <br>	
-<a target="_blank" href="htpps://instagram.com/mdabdull4h"><img src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/mdabdull4h"><img src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="mailto:mdabdullahashfaq008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://x.com/mdag2008"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white"></img></a>
 <br>
