@@ -7,7 +7,6 @@ I'm a college student making and hosting applications as a hobby.
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
 	- Python Programming with Framework 
-	- JavaScript
 - :bulb: I'm interested in all things : **Scripting, Software programming, Linux**
 - 💬 Talk to me about anything that interests you.
 
@@ -17,7 +16,6 @@ I'm a college student making and hosting applications as a hobby.
 <span> 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
 <h4> Databases </h4>
