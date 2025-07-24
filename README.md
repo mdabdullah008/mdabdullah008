@@ -6,8 +6,10 @@ I'm a college student making and hosting applications as a hobby.
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
-	- Python Programming with Framework 
-- :bulb: I'm interested in all things : **Scripting, Software programming, Linux**
+	- College (HSC-2027)
+ 	- Python Programming with Framework 
+- :bulb: I'm interested in all things : **Scripting, Software programming, Linux, Homelabbing**
+- 🐧 I'm currently using EndeavourOS (arch btw) as my main distro.
 - 💬 Talk to me about anything that interests you.
 
 ## My Skills Include
@@ -20,12 +22,14 @@ I'm a college student making and hosting applications as a hobby.
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
+</span>
 
 
 <h4> Other Tools and Technologies </h4>
@@ -52,4 +56,4 @@ I'm a college student making and hosting applications as a hobby.
 ------
 Credits: Birunthaban Sarventhiran [https://github.com/Birunthaban]
 
-Last Edited on: 02/06/2025
+Last Edited on: 25/07/2025
