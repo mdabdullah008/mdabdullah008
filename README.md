@@ -7,9 +7,9 @@ I'm a college student making and hosting applications as a hobby.
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
 	- College (HSC-2027)
- 	- Python Programming with Framework 
+   	- Javascript 
 - :bulb: I'm interested in all things : **Scripting, Software programming, Linux, Homelabbing**
-- 🐧 I'm currently using EndeavourOS (arch btw) as my main distro.
+- 🐧 I'm currently using MX Linux as my main distro.
 - 💬 Talk to me about anything that interests you.
 
 ## My Skills Include
@@ -55,4 +55,4 @@ I'm a college student making and hosting applications as a hobby.
 </p>
 ------
 
-Last Edited on: 27/07/2025
+Last Edited on: 16/09/2025
