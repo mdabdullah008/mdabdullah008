@@ -9,7 +9,7 @@ I'm a college student making and hosting applications as a hobby.
 	- College (HSC-2027)
    	- Javascript 
 - :bulb: I'm interested in all things : **Scripting, Software programming, Linux, Homelabbing**
-- 🐧 I'm currently using MX Linux as my main distro.
+- 🐧 I'm currently using Debian 13 as my main distro.
 - 💬 Talk to me about anything that interests you.
 
 ## My Skills Include
@@ -55,4 +55,4 @@ I'm a college student making and hosting applications as a hobby.
 </p>
 ------
 
-Last Edited on: 16/09/2025
+Last Edited on: 01/10/2025
