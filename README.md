@@ -7,7 +7,7 @@ I'm a college student making and hosting applications as a hobby.
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
 	- College (HSC-2027)
-   	- Javascript 
+   	- C Programming
 - :bulb: I'm interested in all things : **Scripting, Software programming, Linux, Homelabbing**
 - 🐧 I'm currently using Debian 13 as my main distro.
 - 💬 Talk to me about anything that interests you.
