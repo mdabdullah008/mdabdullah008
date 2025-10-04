@@ -18,6 +18,7 @@ I'm a college student making and hosting applications as a hobby.
 <span> 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -55,4 +56,4 @@ I'm a college student making and hosting applications as a hobby.
 </p>
 ------
 
-Last Edited on: 01/10/2025
+Last Edited on: 04/10/2025
