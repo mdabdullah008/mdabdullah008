@@ -9,7 +9,7 @@ I'm a college student making and hosting applications as a hobby.
 	- College (HSC-2027)
    	- C Programming
 - :bulb: I'm interested in all things : **Scripting, Software programming, Linux, Homelabbing**
-- 🐧 I'm currently using Debian 13 as my main distro.
+- 🐧 I'm currently using Arch as my main distro.
 - 💬 Talk to me about anything that interests you.
 
 ## My Skills Include
@@ -53,6 +53,3 @@ I'm a college student making and hosting applications as a hobby.
 <a target="_blank" href="https://x.com/mdag2008"><img src="https://img.shields.io/badge/-stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></img></a>
 <br>
 </p>
-------
-
-Last Edited on: 04/10/2025
