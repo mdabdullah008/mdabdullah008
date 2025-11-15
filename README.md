@@ -2,14 +2,14 @@
 
 ### Hi there 👋 I'm Mohammed Abdullah,
 
-I'm a college student making and hosting applications as a hobby.
+I'm a college student making and hosting applications as a hobby and aim to become a software engineer.
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
 	- College (HSC-2027)
    	- C Programming
-- :bulb: I'm interested in all things : **Scripting, Software programming, Linux, Homelabbing**
-- 🐧 I'm currently using Arch as my main distro.
+   	- Bash Scripting
+- :bulb: I'm interested in all things : **Scripting, Software programming, Linux Ricing, Homelabbing, Modding**
+- 🐧 I'm currently using Arch (btw) as my main distro.
 - 💬 Talk to me about anything that interests you.
 
 ## My Skills Include
@@ -50,6 +50,5 @@ I'm a college student making and hosting applications as a hobby.
 <br>	
 <a target="_blank" href="mailto:mdabdullahashfaq008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://x.com/mdag2008"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white"></img></a>
-<a target="_blank" href="https://x.com/mdag2008"><img src="https://img.shields.io/badge/-stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></img></a>
 <br>
 </p>
